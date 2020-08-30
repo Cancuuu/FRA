@@ -1,0 +1,17 @@
+
+
+.divcounter{
+    text-align: center;
+}
+
+.counter{
+    font-weight: lighter;
+    position: relative;
+    top: 20vh;
+    text-align: center;
+    font-family: asap;
+    font-size: 50px;
+    color: whitesmoke;
+}
+
+

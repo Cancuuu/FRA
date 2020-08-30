@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500&display=swap');
+
+
+
+.divtitle{ 
+    padding: 20px 20px;
+    background-color: whitesmoke;
+}
+
+.title{
+    font-weight: lighter;
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: Asap;
+    color: black;
+    font-size: 25px;
+    padding-top: 5px 5px;
+}
